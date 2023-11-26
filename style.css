@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     list-style: none;
     text-decoration: none;
     font-family: sans-serif;
@@ -48,6 +47,7 @@ main section{
     align-items: center;
     justify-content: space-between;
     padding: 5rem 10rem;
+    padding-bottom: 0;
 }
 .main-text img{
     width: 15rem;
@@ -121,7 +121,7 @@ main section{
     z-index: 100;
 }
 .main-img img{
-    width: 500px;
+    width: 450px;
     transform: rotate(-7deg);
 }
 .circle{
@@ -133,4 +133,5 @@ main section{
     background: #445c42;
     clip-path: circle(800px at right 1000px);
 }
+
 
