@@ -46,7 +46,7 @@ main section{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 5rem 10rem;
+    padding: 5rem 10rem 0;
     padding-bottom: 0;
 }
 .main-text img{
