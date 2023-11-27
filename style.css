@@ -4,6 +4,7 @@
     list-style: none;
     text-decoration: none;
     font-family: sans-serif;
+    scroll: none;
 }
 body{
     background: #c2c0c1;
